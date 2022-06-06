@@ -1,16 +1,24 @@
 body{
     margin: 0%;
     padding: 0%;
+    background-color: #0041AB;
 }
 
-h1{
-    color: rgb(46, 161, 104);
+.h1{
+    font-size: 60px;
+    color: #5FFFEF;
     border: 3px solid rgb(227, 243, 3);
 }
 p{
-    font-size: 30px;
+    font-size: 36px;
     color: rgb(17, 0, 253);
 }
-body{
-    background-color: rgb(241, 13, 13);
+
+.box {
+    font: 10px;
+    color: crimson;
+}
+
+#unic{
+    font-size: 70px;
 }
