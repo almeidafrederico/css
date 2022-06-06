@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    color: rgb(46, 161, 104);
+    border: 3px solid rgb(227, 243, 3);
+}
+p{
+    font-size: 30px;
+    color: rgb(17, 0, 253);
+}
+body{
+    background-color: rgb(241, 13, 13);
+}
