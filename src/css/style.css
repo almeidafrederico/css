@@ -1,17 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
 body{
     margin: 0%;
     padding: 0%;
     background-color: #0041AB;
+    font-family: 'inter', sans-serif;
 }
 
 .h1{
     font-size: 60px;
-    color: #5FFFEF;
+    color: rgb(95, 255, 239);
     border: 3px solid rgb(227, 243, 3);
 }
-p{
-    font-size: 36px;
-    color: rgb(17, 0, 253);
+
+.texto_1{
+    font-size: 24px;
+    color: #5FFFEF;
+    line-height: 20px;
 }
 
 .box {
